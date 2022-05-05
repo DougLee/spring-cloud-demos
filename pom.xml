@@ -5,6 +5,7 @@
     <modules>
         <module>spring-cloud-eureka-server</module>
         <module>spring-cloud-eureka-client</module>
+        <module>spring-cloud-gateway</module>
     </modules>
     <groupId>com.nongmokeji</groupId>
     <artifactId>spring-cloud-demos</artifactId>
